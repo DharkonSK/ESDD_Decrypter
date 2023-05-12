@@ -1,0 +1,25 @@
+# Informacion del Programa
+
+# El Programa Decriptador de ESDD es una Programa que Sirve para Desencriptar Archivos ESDD y no no Archivo ESD si no ESDD
+# Que es otro tipo de Archivo que al Igual que los ESD, Se Necesita de un Programa Especial para Ser Usados, El Programa
+# Incluye Sus Archivos SYS y DLL para Poder Funcionar Correctamente, No se Recomienda Tocar o Modificar los Archivos DLL
+# Especialmente el Archivo SYS que es el Archivo Principal que mantiene el Funcionamiento del Codigo, Cualquier Modificacion
+# Hecha en Este Archivo de Sistema o en Archivos DLL podrian hacer que el Programa Deje de Funcionar.
+
+# Como Usar el Programa
+
+# El Programa Decriptador de ESDD se Controla con Teclas y Dicho Programa Tiene 4 Funciones, Crear una ISO Completa de un
+# Archivo en Formato ESDD, Crear una ISO Comprimida con un Archivo en Formato ESDD, Tambien Comprimir un Archivo en Formato
+# ESDD, Cifrar un Archivo ISO en Formato ESDD y por Ultimo Copiar la Carpeta System32 como para Copias de Seguridad o Extraer
+# Partes de la Carpeta Sin Necesidad de Dañar Algun Archivo de System32
+
+# Nota: El Programa Tiene Limites como Por Ejemplo el Programa no Puede Desencriptar ni Encriptar Archivos de Imagen de Disco 
+# Que Tengan un Tamaño de mas de 2.5 Megas, El Programa Analizara los Archivos Antes de Desencriptarlos a hacer algo en ellos
+
+# Derechos de Autor
+
+# Si Usted lo Desea, Puede Modificar el Programa Siempre y cuando no cambie el Nombre del Creador o Cree Copias y las Publique
+# en lugares como las Redes Sociales o Alguna Pagina Web donde se Publique Software, Si no Desea Publicidad en el Futuro
+# No Copie el Software, Puede Copiarlo, pero no Puede Publicar Copias o Cambiar el Nombre del Creador Original del Software
+
+# Creador del Programa: Dharkon SK
